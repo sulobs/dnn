@@ -1,4 +1,4 @@
-# dnn
+# dnn: Boston House prices Predictions using Deep Neural Network
 Boston House prices Predictions using Deep Neural Network
 This program code is written in python  for building and training a neural network to predict house prices using the Boston Housing data-set.  Following are the steps for implementation:
 1.Data Preprocessing
